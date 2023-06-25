@@ -1,3 +1,3 @@
 # projetos-a-serem-hospedados
  Projetos para hospedar no github pages
- <a href="jp-carvalho-github.io/PROJETOS-A-SEREM-HOSPEDADOS/teste1/index.html">Teste n°1
+ <a href="jp-carvalho-github.io/teste1/index.html">Teste n°1
